@@ -1,4 +1,4 @@
-int a = 1
-int b = 2
+const a = 1
+const b = 2
 
 console.log("suma" + a+b);
